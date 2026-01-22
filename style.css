@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #87CEEB;
+    overflow: hidden;
+    font-family: monospace;
+}
+
+canvas {
+    display: block;
+}
+
+#ui {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background: rgba(0,0,0,0.5);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 12px;
+}
